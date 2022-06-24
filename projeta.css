@@ -13,7 +13,7 @@ img
 }
 div{
     font-size: 30px;
-    color: rgb(113, 135, 212);
+    color: rgb(239, 242, 252);
     text-align: center;
     position: relative;
     bottom:  350px;
@@ -50,10 +50,14 @@ section img
     bottom: 550px;
     
 }
-section p{
-    background-color: bisque;
-    border: 1px coral solid;
-    text-align: center; 
-    width: 700px;
-    height: 300px;   
+#para{
+    background-color: rgb(192, 156, 150);
+    border: 1px coral solid; 
+    width: 650px;
+    height: 400px;  
+    bottom: 1000px; 
+    margin-left: 300px;
+    font-size: 20px;
+    display: flex;
+    position: relative;
 }
